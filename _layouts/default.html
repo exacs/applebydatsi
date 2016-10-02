@@ -1,12 +1,12 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="{{ site.github.url }}/css/main.css">
   </head>
 
   <body>
-    <a href="/">
-      <img src="/imgs/logo.png" class="logo">
+    <a href="{{ site.github.url }}/">
+      <img src="{{ site.github.url }}/imgs/logo.png" class="logo">
     </a>
     {{ content }}
   </body>
