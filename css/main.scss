@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+body {
+  background: #FFC;
+  font-size: 16px;
+  padding: 20px 30px;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+
+.buy table {
+  width: 100%;
+}
+
+.iphone table {
+  margin: auto;
+}
+
+.iphone td,
+.iphone th {
+  border: 1px #000 solid;
+  padding: 10px;
+  text-align: center;
+}
+
+.iphone {
+  background: #FFC;
+}
+
+.buy {
+  background: #FC9;
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+}
