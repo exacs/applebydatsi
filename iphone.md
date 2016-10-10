@@ -25,14 +25,31 @@ permalink: /iphone/
      - Altura de 15,82 cm
      - Anchura de 7,79 cm
      - Grosor de 0,73 cm
-     
-   Se encuentra disponible el siguiente material
-
-   - aaa
-   
+        
    *Encargado de diseño* Jonathan Ive
 
-2. Sistema de memoria
+2. Pantalla
+   - iPhone 7 normal
+     - Pantalla de Alta Definición "Retina"
+     - Pantalla panorámica de 4,7 pulgadas
+     - Pantalla capacitiva multi-táctil con tecnología "Multi-touch"
+     - Pantalla con resolución de 1334 por 750 píxeles
+     
+   - iPhone 7 plus
+     - Pantalla de Alta Definición "Retina"
+     - Pantalla panorámica de 5,5 pulgadas
+     - Pantalla capacitiva multi-táctil con tecnología "Multi-touch"
+     - Pantalla con resolución de 1920 por 1080 píxeles
+
+   *Encargado de diseño* Jonathan Ive
+
+3. Cámara
+   - Cámara de 12 Megapíxeles
+   - Apertura de f/1.8
+   - Zoom digital de hasta 5x
+
+4. Sensor "Touch ID" dactilar
+   - Integrado en el botón de "inicio"
 
 ## Sistema Operativo
 
@@ -82,7 +99,7 @@ permalink: /iphone/
 
 ## Comprar
 
-Aquí puede comprar el Iphone 7
+[Aquí]({{ site.github.url }}/buy) puede comprar el Iphone 7
 
 ## Anuncios
 
